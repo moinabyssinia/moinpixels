@@ -1,0 +1,48 @@
+module.exports.descriptors = [
+    'Agile',
+    'Balanced',
+    'Candid',
+    'Decisive',
+    'Earnest',
+    'Fabulous',
+    'Generous',
+    'Helpful',
+    'Industrious',
+    'Joyous',
+    'Keen',
+    'Logical',
+    'Meticulous',
+    'Natural',
+    'Orderly',
+    'Passionate',
+    'Quiet',
+    'Revered',
+    'Sincere',
+    'Thoughtful',
+    'Versatile'
+]
+
+module.exports.places = [
+    'Dresden',
+    'Goettingen',
+    'DenHaag',
+    'Delft',
+    'Barcelona',
+    'Ljubljana',
+    'Horsholm',
+    'Copenhagen',
+    'Castries',
+    'Orlando',
+    'Philadelphia',
+    'Prague',
+    'Atlanta',
+    'Paris',
+    'Rome',
+    'Denver',
+    'SanDiego',
+    'Vienna',
+    'Annapolis',
+    'Amsterdam',
+    'Krakow'
+]
+
